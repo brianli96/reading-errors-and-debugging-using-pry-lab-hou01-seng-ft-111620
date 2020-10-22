@@ -6,7 +6,7 @@ def snake_it_up(string)
       string.insert(0, 's')
     end
     return string
-  else
-    return string
+  el  se
+     string
   end
 end
