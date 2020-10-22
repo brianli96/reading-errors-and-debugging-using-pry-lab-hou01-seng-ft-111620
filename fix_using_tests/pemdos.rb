@@ -4,7 +4,6 @@ def snake_it_up(string)
   if string[0] == "s"
     5.times do
       string.insert(0, 's')
-      puts string
     end
   else
     string
